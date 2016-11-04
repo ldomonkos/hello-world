@@ -17,7 +17,7 @@ def index
 end
 ```
 
-## C\#
+## C# ##
 
 ```csharp
 private void index() {
